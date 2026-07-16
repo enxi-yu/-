@@ -196,7 +196,9 @@ UPROGS=\
 	$U/_logstress\
 	$U/_forphan\
 	$U/_dorphan\
-	$U/_alarmtest
+	$U/_sleep\
+	$U/_sixfive\
+	$U/_find
 
 
 
